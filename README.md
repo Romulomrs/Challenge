@@ -21,13 +21,7 @@ A página deve ter campos para inserção do texto a ser criptografado ou descri
 O resultado deve ser exibido na tela.<br/>
 
 
-## Screenshots
-
-
-
-### Desktop
-
-#### Modo Alura
+## Prints
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/107062938/233083486-ade519e1-4105-489b-8ab8-424b02edf29c.png" align="top" width="30%" />
